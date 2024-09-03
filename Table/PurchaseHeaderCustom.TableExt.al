@@ -20,7 +20,7 @@ tableextension 50130 PurchaseHeaderCustom extends "Purchase Header"
         field(50004; "Incoterm"; Option)
         {
             DataClassification = AccountData;
-            OptionMembers = "EXW;FOB;CNI;CFR;CIF";
+            OptionMembers = EXW,FOB,CNI,CFR,CIF;
             Caption = 'Incoterm';
         }
         field(50005; "Gencodage"; Boolean)

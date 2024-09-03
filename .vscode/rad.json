@@ -1,1 +1,1 @@
-﻿{"Added":[{"Id":50133,"Kind":16,"Name":"PurchaseLinePageExt","Namespace":""}],"Modified":[{"Id":50132,"Kind":16,"Name":"PurchaseHeaderPageExt","Namespace":""}],"Removed":[]}
+﻿{"Added":[{"Id":50133,"Kind":16,"Name":"PurchaseLinePageExt","Namespace":""}],"Modified":[{"Id":50130,"Kind":17,"Name":"PurchaseHeaderCustom","Namespace":""},{"Id":50132,"Kind":16,"Name":"PurchaseHeaderPageExt","Namespace":""}],"Removed":[]}
